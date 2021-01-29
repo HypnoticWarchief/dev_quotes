@@ -1,0 +1,5 @@
+Real programmers can write assembly code in any language.
+I think the way IBM has embraced the open source philosophy has been quite astonishing, but gratifying. I hope they'll do very well with it.
+For me, writing is a love-hate relationship.
+I think computer science, by and large, is still stuck in the Modern age.
+Doing linear scans over an associative array is like trying to club someone to death with a loaded Uzi.
