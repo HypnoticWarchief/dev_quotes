@@ -14,3 +14,5 @@ All quotes are sourced from https://en.wikiquote.org
 Linus Torvalds
 Martin Fowler
 Larry Walls
+Alan Kay
+Bjarne Stroustrup
